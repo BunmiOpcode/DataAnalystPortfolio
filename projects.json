@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Inventory Analysis",
+    "description": "Optimized supply chain delivery times using SQL queries and dashboards.",
+    "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "link": "https://github.com/BunmiOpcode/SupplyChainAndLogistics"
+  },
+  {
+    "title": "Tax Management System",
+    "description": "Computerized tax collection and management system for efficiency.",
+    "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "link": "https://github.com/BunmiOpcode/fake-news-detection"
+  }
+]
